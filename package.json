@@ -4,7 +4,7 @@
   "description": "Aggregate free albums from Google Play",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test/spec"
+    "test": "./node_modules/.bin/_mocha ./test/spec"
   },
   "repository": {
     "type": "git",
