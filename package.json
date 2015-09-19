@@ -1,14 +1,14 @@
 {
-  "name": "free-albums",
+  "name": "sup-server",
   "version": "0.1.0",
-  "description": "Aggregate free albums from Google Play",
+  "description": "y",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/_mocha test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://brad-bowie@github.com/brad-bowie/free-albums.git"
+    "url": "git+https://brad-bowie@github.com/brad-bowie/sup-server.git"
   },
   "author": "",
   "license": "MIT",
