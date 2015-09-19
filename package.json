@@ -12,9 +12,6 @@
   },
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brad-bowie/free-albums/issues"
-  },
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.3.0"
